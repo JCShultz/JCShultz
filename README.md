@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A passionate fullstack developer from Boulder, Colorado</h3>
 
-- 📫 How to reach me **josephcshultz@gmail.com**
+- 📫 How to reach me **
+josephcshultz@gmail.com**
 
 <p align="left">
 </p>
